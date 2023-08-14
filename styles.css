@@ -1,0 +1,46 @@
+body {
+    background-color: lightcyan;
+    text-align: center;
+}
+
+.title {
+    font-family: cursive;
+}
+
+h4 {
+    color: gray;
+}
+
+table, th, td, tr {
+    border: 1px black solid;
+    margin: 0 auto 40px;
+}
+
+img {
+    width: 70%;
+}
+
+.extraction {
+    background-color: rgb(250, 240, 250);
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+
+.bad-boys {
+    background-color: rgb(220, 230, 250);
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.fast-and-furious {
+    padding-top: 20px;
+    background-color: rgb(250, 240, 250);
+}
+
+a {
+    color: purple;
+}
+
+a:hover {
+    color: orange;
+}
